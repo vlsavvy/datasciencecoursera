@@ -1,2 +1,2 @@
-# datasciencecoursera
-JHU Data Science Specialization Course 
+# Coursera: JHU DataScience Specialization Coursework
+
